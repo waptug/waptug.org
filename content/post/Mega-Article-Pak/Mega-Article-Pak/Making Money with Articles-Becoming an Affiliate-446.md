@@ -3,7 +3,7 @@ title: "Making Money with Articles: Becoming an Affiliate"
 date: 2019-01-09T08:52:34-08:00
 description: "Making Money With Articles Tips for Web Success"
 featured_image: "/images/Making Money With Articles.jpg"
-tags: ["Making Money With Articles"]
+tags: ["Making Money With Articles","junior golf"]
 ---
 
 Making Money with Articles: Becoming an Affiliate 

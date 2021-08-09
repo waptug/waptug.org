@@ -3,7 +3,7 @@ title: "Choosing An Executive Office Chair"
 date: 2021-08-07T21:50:10-08:00
 description: "Office Chairs Tips for Web Success"
 featured_image: "/images/Office Chairs.jpg"
-tags: ["Office Chairs"]
+tags: ["Office Chairs",""]
 ---
 
 Choosing An Executive Office Chair
